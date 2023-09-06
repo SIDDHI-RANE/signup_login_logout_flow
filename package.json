@@ -1,0 +1,20 @@
+{
+  "name": "signup_login_logout_flow",
+  "version": "1.0.0",
+  "description": "login signup logut flow with css html javascript with mvc model structure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"app.js"
+  },
+  "keywords": [
+    "const",
+    "console",
+    "log",
+    "require",
+    "server",
+    "port"
+  ],
+  "author": "siddhi rane",
+  "license": "ISC"
+}
